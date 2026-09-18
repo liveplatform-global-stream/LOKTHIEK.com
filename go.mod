@@ -46,7 +46,7 @@ require (
 	github.com/layer5io/gowrk2 v0.6.1
 	github.com/layer5io/nighthawk-go v1.0.8
 	github.com/layer5io/service-mesh-performance v0.6.1
-	github.com/lib/pq v1.10.9
+	github.com/lib/pq v1.12.3
 	github.com/manifoldco/promptui v0.9.0
 	github.com/meshery/meshery-operator v0.8.11
 	github.com/meshery/meshkit v0.8.64
